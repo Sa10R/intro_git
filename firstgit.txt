@@ -8,3 +8,4 @@ We have leaarned about
 /ls -a
 /cd
 /git rm
+/git status
