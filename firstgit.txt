@@ -9,3 +9,4 @@ We have leaarned about
 /cd
 /git rm
 /git status
+/git diff
