@@ -1,4 +1,10 @@
 This is first Git test.
 You could learn how to use Git. Possiblly
 
-Shake hands
+We have leaarned about 
+/git add
+/git commit -v
+/ls
+/ls -a
+/cd
+/git rm
