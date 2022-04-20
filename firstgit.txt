@@ -1,1 +1,3 @@
-Will practice Git
+This is first Git test.
+You could learn how to use Git
+Shake hands
