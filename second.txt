@@ -1,2 +1,3 @@
 second.txt is this file
 is this true?
+merging finished
